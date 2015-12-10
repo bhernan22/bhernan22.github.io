@@ -12,13 +12,16 @@ h1 {
 }
 .yellow-background {
     background-color: yellow;
-  }
+    background-size: 120px 140px;
+    background: url(img_flwr.gif);
+ }
  .orange-background {
  	background-color: orange;
+ 	background-size: 100px 120px;
  }
  .dashed-green-border {
     border-color: green;
-    border-width: 5px;
+    border-width: 10px;
     border-style: dashed;
     border-radius: 25%;
   }
